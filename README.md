@@ -1,6 +1,6 @@
 # Responsive-Portfolio
 
-This project contains a personal page about Cullan and showcases a portfolio of his work.
+This project contains a personal page about Cullan and showcases a portfolio of his work. These pages are responsive adapt to 980px, 768px, and 640px. 
 
 ## Getting Started
 
@@ -16,9 +16,9 @@ Browser minimum requirements:
 
 ### Installing
 
-To view files navigate to [ckaoki/Basic-Portfolio](https://ckaoki.github.io/Basic-Portfolio/) 
+To view files navigate to https://ckaoki.github.io/Responsive-Portfolio/.
 
-To install source files use git to clone files from togit@github.com:ckaoki/Basic-Portfolio.git.
+To install source files use git to clone files from https://github.com/ckaoki/Responsive-Portfolio.git
 
 ## Running the tests
 
@@ -34,7 +34,7 @@ I have no style! :(
 
 ## Deployment
 
-Navigate to [ckaoki/Basic-Portfolio](https://ckaoki.github.io/Basic-Portfolio/) to view.
+Navigate to https://github.com/ckaoki/Responsive-Portfolio.git to clone.
 
 ## Built With
 
@@ -50,7 +50,7 @@ We use github for version control (https://github.com/your/project/tags).
 
 ## Authors
 
-* **Cullan Aoki** - *Initial work* - [Basic-Portfolio](https://ckaoki.github.io/Basic-Portfolio/)
+* **Cullan Aoki** - *Initial work* - https://github.com/ckaoki/Responsive-Portfolio.git
 
 ## License
 
